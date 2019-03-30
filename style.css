@@ -6,3 +6,9 @@ h1, h2, h3 {
     font-family: 'Cutive', serif;
     color: #F29F05;
 }
+.navbar-light .navbar-nav .nav-link {
+    color: #FFD800;
+}
+.navbar-light .navbar-nav .nav-link.active {
+    color: #F29F05;
+}
