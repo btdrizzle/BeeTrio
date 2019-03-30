@@ -1,0 +1,8 @@
+body {
+    background-image: url("./images/light-honeycomb-dark.png");
+    background-color: #000080;
+}
+h1, h2, h3 {
+    font-family: 'Cutive', serif;
+    color: #F29F05;
+}
