@@ -6,9 +6,20 @@ h1, h2, h3 {
     font-family: 'Cutive', serif;
     color: #F29F05;
 }
-.navbar-light .navbar-nav .nav-link {
+.nav-link {
     color: #FFD800;
+    font-size: 1.5rem;
 }
-.navbar-light .navbar-nav .nav-link.active {
+.nav-link.active {
     color: #F29F05;
+    font-size: 1.5rem;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px; /* Set the fixed height of the footer here */
+    line-height: 40px; /* Vertically center the text there */
+    color: #F29F05;
+    text-align: center;
 }
